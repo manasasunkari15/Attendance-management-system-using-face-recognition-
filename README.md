@@ -6,8 +6,7 @@
 
 
 
-
-Overview of project:
+----Overview of project-----
 
 -After you run the project you have to register your face so that system can identify you, so click on register new student
 
