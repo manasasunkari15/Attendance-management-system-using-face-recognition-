@@ -4,8 +4,7 @@
 
 -Libraries: Pandas, Haar Cascade, Face recognition, OpenCV.
 
-
-
+--------------------------------------------------------------------------------------
 ----Overview of project-----
 
 -After you run the project you have to register your face so that system can identify you, so click on register new student
@@ -25,3 +24,36 @@
 -You can view the attendance after clicking View Attendance button.
 
 -It will show record in tabular format.
+
+--------------------------------------------------------------------------------------
+---Code Requirements---
+
+Python 3.6+
+
+Opencv(pip install opencv-python)
+
+Tkinter(Available in python)
+
+PIL (pip install Pillow)
+
+Pandas(pip install pandas)
+
+Numpy(pip install numpy)
+
+Pillow (pip install Pillow)
+
+--------------------------------------------------------------------------------------
+haarcascade_frontalface_default.xml  ->>>> 
+
+Where to Get It?
+This file is included with OpenCV and is located in:
+<opencv-installation-path>/data/haarcascades/
+Or download it from OpenCV's GitHub:
+🔗 https://github.com/opencv/opencv/tree/master/data/haarcascades
+------------------------------------------------------------------------------------------
+
+Editor - Visual studio code
+
+--Notes--
+*It will require high processing power
+*Noisy image can reduce your accuracy so quality of images matter.
